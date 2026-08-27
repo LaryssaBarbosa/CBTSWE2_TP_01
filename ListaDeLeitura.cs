@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+\\ Laryssa Barbosa Soares e Isabela Salgueiro
 namespace CBTSWE2.Aula01.Negocio
 {
     public class ListaDeLeitura
