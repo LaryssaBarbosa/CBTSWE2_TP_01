@@ -1,5 +1,5 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
-\\Laryssa Barbosa Soares e Isabela Salgueiro
+//Laryssa Barbosa Soares e Isabela Salgueiro
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net8.0</TargetFramework>
