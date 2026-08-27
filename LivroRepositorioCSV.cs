@@ -10,7 +10,6 @@ namespace CBTSWE2.Aula01.Repositorio
     public class LivroRepositorioCSV : ILivroRepositorio
     {
         private static readonly string nomeArquivoCSV = "Repositorio\\livros.csv";
-        //private static readonly string nomeArquivoCSV = "C:\\PARTICULAR\\INSTITUTO_FEDERAL\\SWII6-SISTEMAS_WEB_2\\Aula01\\Alura.ListaLeitura\\Alura.ListaLeitura.App\\Repositorio\\livros.csv";
 
         private ListaDeLeitura _paraLer;
         private ListaDeLeitura _lendo;
